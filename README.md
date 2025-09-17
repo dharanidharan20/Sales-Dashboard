@@ -34,6 +34,9 @@ This dashboard empowers stakeholders to analyze sales data interactively, detect
 - Based on the map visualization, which cities have the highest total sales?
 
 ## Process :
+- Create MySQL Database and Tables.
+- Connect Power BI to MySQL.
+  
 - Navigate to the KPI Cards or Summary section in the dashboard.
 - The cards titled TOTAL SALES and NO. OF UNITS SOLD display aggregated values automatically.
 - Inspect the Pie Charts labeled "Sum of Quantity by Category" and "Sales by Category."
