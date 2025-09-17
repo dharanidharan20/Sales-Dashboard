@@ -15,6 +15,8 @@ The objective of this Sales Dashboard Project is to provide a dynamic, interacti
 This dashboard empowers stakeholders to analyze sales data interactively, detect trends, evaluate performance, and make informed strategic decisions in a visual and intuitive manner.
 
 ## Questions :
+- Create a MySQL Sales Database and use the data from it to build a Sales Dashboard in Power BI?
+
 - What is the total sales value and number of units sold during the observed period?
 
 - Which category contributes the most to total sales in terms of quantity and revenue?
