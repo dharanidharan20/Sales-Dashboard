@@ -1,7 +1,7 @@
 # Sales-Dashboard
-##Basic PowerBi project with MySQL database
+## Basic PowerBi project with MySQL database
 
-##Objective
+## Objective
 The objective of this Sales Dashboard Project is to provide a dynamic, interactive, and user-friendly solution for analyzing sales performance data across multiple dimensions. The dashboard enables business users and decision-makers to:
 
 - Monitor key sales metrics such as Total Sales, Number of Units Sold, and Number of Customers at a glance.
@@ -14,7 +14,7 @@ The objective of this Sales Dashboard Project is to provide a dynamic, interacti
 
 This dashboard empowers stakeholders to analyze sales data interactively, detect trends, evaluate performance, and make informed strategic decisions in a visual and intuitive manner.
 
-#QUESTIONS
+# QUESTIONS
 - What is the total sales value and number of units sold during the observed period?
 
 - Which category contributes the most to total sales in terms of quantity and revenue?
@@ -31,7 +31,7 @@ This dashboard empowers stakeholders to analyze sales data interactively, detect
 
 - Based on the map visualization, which cities have the highest total sales?
 
-#PROCESS
+# PROCESS
 - Navigate to the KPI Cards or Summary section in the dashboard.
 - The cards titled TOTAL SALES and NO. OF UNITS SOLD display aggregated values automatically.
 - Inspect the Pie Charts labeled "Sum of Quantity by Category" and "Sales by Category."
@@ -69,5 +69,5 @@ Clicking any visual element (e.g., a bar in "Sales by Product") filters related 
 - Hover over each city bubble to see exact sales numbers.
 - Cities with larger circles (e.g., New Delhi, Mumbai) indicate higher sales.
 
-##DASHBOARD
+## DASHBOARD
 <img width="879" height="491" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/b596a44b-35c3-4216-bb6b-6d345934ee70" />
